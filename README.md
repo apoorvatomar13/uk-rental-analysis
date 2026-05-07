@@ -215,8 +215,8 @@ python src/dashboard.py         # Launch dashboard only
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn URL] | [GitHub URL] | [Email]
+**[Apoorva Tomar]**
+[https://www.linkedin.com/in/apoorvatomar/] | [https://github.com/apoorvatomar13] | [apoorva.tomar@hotmail.com]
 
 ---
 
