@@ -1,0 +1,141 @@
+Year,Region,Median_Annual_Wage
+2011,London,34000.0
+2012,London,35123.0
+2013,London,36049.0
+2014,London,36979.0
+2015,London,37769.0
+2016,London,39009.0
+2017,London,39902.0
+2018,London,40894.0
+2019,London,42051.0
+2020,London,42137.0
+2021,London,43968.0
+2022,London,45743.0
+2023,London,48904.0
+2024,London,51743.0
+2011,South East,27500.0
+2012,South East,28152.0
+2013,South East,29196.0
+2014,South East,29864.0
+2015,South East,30535.0
+2016,South East,31322.0
+2017,South East,32115.0
+2018,South East,32760.0
+2019,South East,33471.0
+2020,South East,33424.0
+2021,South East,34743.0
+2022,South East,35709.0
+2023,South East,38258.0
+2024,South East,40699.0
+2011,South West,24500.0
+2012,South West,25122.0
+2013,South West,25730.0
+2014,South West,26378.0
+2015,South West,26860.0
+2016,South West,27641.0
+2017,South West,28368.0
+2018,South West,28927.0
+2019,South West,29526.0
+2020,South West,29117.0
+2021,South West,30214.0
+2022,South West,31355.0
+2023,South West,33611.0
+2024,South West,34747.0
+2011,East of England,25500.0
+2012,East of England,25764.0
+2013,East of England,26528.0
+2014,East of England,27307.0
+2015,East of England,28010.0
+2016,East of England,28494.0
+2017,East of England,29180.0
+2018,East of England,30177.0
+2019,East of England,30957.0
+2020,East of England,31021.0
+2021,East of England,32114.0
+2022,East of England,32975.0
+2023,East of England,35292.0
+2024,East of England,38548.0
+2011,East Midlands,23500.0
+2012,East Midlands,24003.0
+2013,East Midlands,24562.0
+2014,East Midlands,25246.0
+2015,East Midlands,25685.0
+2016,East Midlands,26408.0
+2017,East Midlands,27069.0
+2018,East Midlands,27572.0
+2019,East Midlands,28266.0
+2020,East Midlands,28811.0
+2021,East Midlands,29847.0
+2022,East Midlands,30681.0
+2023,East Midlands,33000.0
+2024,East Midlands,34931.0
+2011,West Midlands,23800.0
+2012,West Midlands,24522.0
+2013,West Midlands,25095.0
+2014,West Midlands,25884.0
+2015,West Midlands,26511.0
+2016,West Midlands,27072.0
+2017,West Midlands,27786.0
+2018,West Midlands,28448.0
+2019,West Midlands,28993.0
+2020,West Midlands,29104.0
+2021,West Midlands,29979.0
+2022,West Midlands,30791.0
+2023,West Midlands,32929.0
+2024,West Midlands,35182.0
+2011,Yorkshire and The Humber,23000.0
+2012,Yorkshire and The Humber,23752.0
+2013,Yorkshire and The Humber,24218.0
+2014,Yorkshire and The Humber,24823.0
+2015,Yorkshire and The Humber,25318.0
+2016,Yorkshire and The Humber,26059.0
+2017,Yorkshire and The Humber,26813.0
+2018,Yorkshire and The Humber,27527.0
+2019,Yorkshire and The Humber,28485.0
+2020,Yorkshire and The Humber,28942.0
+2021,Yorkshire and The Humber,29981.0
+2022,Yorkshire and The Humber,31334.0
+2023,Yorkshire and The Humber,33362.0
+2024,Yorkshire and The Humber,35657.0
+2011,North West,23500.0
+2012,North West,23963.0
+2013,North West,24557.0
+2014,North West,25378.0
+2015,North West,25919.0
+2016,North West,26355.0
+2017,North West,26961.0
+2018,North West,27624.0
+2019,North West,28327.0
+2020,North West,28317.0
+2021,North West,29333.0
+2022,North West,30917.0
+2023,North West,33207.0
+2024,North West,35474.0
+2011,North East,22500.0
+2012,North East,23018.0
+2013,North East,23381.0
+2014,North East,24198.0
+2015,North East,24723.0
+2016,North East,25284.0
+2017,North East,26137.0
+2018,North East,26892.0
+2019,North East,27632.0
+2020,North East,27428.0
+2021,North East,28603.0
+2022,North East,29584.0
+2023,North East,32238.0
+2024,North East,34472.0
+2011,Wales,22800.0
+2012,Wales,23465.0
+2013,Wales,24058.0
+2014,Wales,24823.0
+2015,Wales,25476.0
+2016,Wales,25951.0
+2017,Wales,26305.0
+2018,Wales,26982.0
+2019,Wales,27541.0
+2020,Wales,28129.0
+2021,Wales,29498.0
+2022,Wales,30718.0
+2023,Wales,33151.0
+2024,Wales,35188.0

@@ -1,0 +1,32 @@
+=======================================================
+  UK RENTAL ANALYSIS — Model Summary
+=======================================================
+
+MODEL: Random Forest Regressor
+TARGET: Average Monthly Rent (£)
+
+PERFORMANCE METRICS:
+  R² Score (test set):      0.9843
+  MAE (test set):           £23
+  RMSE (test set):          £33
+  CV R² Mean (5-fold):      0.9072
+  CV R² Std (5-fold):       0.0863
+
+RENT FORECAST (£/month):
+Year                      2024 Actual  2025  2026  2027
+Region                                                 
+East Midlands                     968   931   886   879
+East of England                  1255  1091  1021   992
+London                           2014  1728  1155  1064
+North East                        751   697   699   702
+North West                        979   906   853   858
+South East                       1398  1357  1108  1028
+South West                       1169  1123  1023  1012
+Wales                             882   827   844   851
+West Midlands                     998   931   877   879
+Yorkshire and The Humber          908   831   847   850
+
+ASSUMPTIONS:
+  House price growth: +3-4% per year
+  Wage growth: +4% per year
+  BOE Base Rate: falling to 3.50% by 2027
