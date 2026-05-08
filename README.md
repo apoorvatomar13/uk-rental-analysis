@@ -194,16 +194,6 @@ python src/dashboard.py         # Launch dashboard only
 
 ---
 
-## 💡 Interview Talking Points
-
-- *"I used ONS and Land Registry data — the same primary sources the government uses to measure the housing crisis"*
-- *"My Random Forest model achieves R² of 0.984, predicting rents within £23/month on average"*
-- *"The most important feature was average house price, confirming rents are structurally tied to the property market"*
-- *"I quantified that 9 out of 10 UK regions now exceed the UN-Habitat 30% affordability threshold"*
-- *"The BOE rate analysis shows a clear transmission mechanism — rate rises passed through to rents within 12 months"*
-
----
-
 ## ⚠️ Limitations & Caveats
 
 - Data is modelled to mirror real ONS/Land Registry statistical patterns — not scraped directly (ONS file formats change frequently)
